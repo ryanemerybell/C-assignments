@@ -1,0 +1,77 @@
+========
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+        
+pppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+    p   
+pppp ppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+P PPPPPP
+ P      
+        
+        
+    p   
+pppp ppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+P PPPPPP
+ P      
+        
+        
+    p  p
+pppp pp 
+rnbqkbnr
+========
+
+========
+RN QKBNR
+P PPPPPP
+BP      
+        
+        
+    p  p
+pppp pp 
+rnbqkbnr
+========
+
+========
+RN QKBNR
+P PPPPPP
+BP      
+ b      
+        
+    p  p
+pppp pp 
+rnbqk nr
+========
+
+========
+RN QKBNR
+P PP PPP
+BP  P   
+ b      
+        
+    p  p
+pppp pp 
+rnbqk nr
+========
+

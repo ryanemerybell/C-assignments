@@ -1,0 +1,12 @@
+========
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+        
+pppppppp
+rnbqkbnr
+========
+
+Hooray!

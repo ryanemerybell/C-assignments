@@ -1,0 +1,23 @@
+========
+RNBQKBNR
+PPP   PP
+        
+   PPP  
+   ppp  
+       p
+ppp   p 
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+PPP   PP
+        
+   PP   
+   pPp  
+       p
+ppp   p 
+rnbqkbnr
+========
+
+:)

@@ -1,0 +1,187 @@
+========
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+        
+pppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+p       
+ ppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+ PPPPPPP
+P       
+        
+        
+p       
+ ppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+ PPPPPPP
+P       
+        
+p       
+        
+ ppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+  PPPPPP
+PP      
+        
+p       
+        
+ ppppppp
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+  PPPPPP
+PP      
+        
+p       
+       p
+ pppppp 
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+   PPPPP
+PPP     
+        
+p       
+       p
+ pppppp 
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+   PPPPP
+PPP     
+        
+p      p
+        
+ pppppp 
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+    PPPP
+PPPP    
+        
+p      p
+        
+ pppppp 
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+    PPPP
+PPPP    
+        
+p      p
+      p 
+ ppppp  
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+     PPP
+PPPPP   
+        
+p      p
+      p 
+ ppppp  
+rnbqkbnr
+========
+
+========
+RNBQKBNR
+     PPP
+PPPPP   
+        
+p      p
+r     p 
+ ppppp  
+ nbqkbnr
+========
+
+========
+RNBQKBNR
+      PP
+PPPPPP  
+        
+p      p
+r     p 
+ ppppp  
+ nbqkbnr
+========
+
+========
+RNBQKBNR
+      PP
+PPPPPP  
+        
+p      p
+r     pr
+ ppppp  
+ nbqkbn 
+========
+
+========
+RNBQKBNR
+       P
+PPPPPPP 
+        
+p      p
+r     pr
+ ppppp  
+ nbqkbn 
+========
+
+========
+RNBQKBNR
+       P
+PPPPPPP 
+        
+p      p
+     rpr
+ ppppp  
+ nbqkbn 
+========
+
+========
+RNBQKBNR
+        
+PPPPPPPP
+        
+p      p
+     rpr
+ ppppp  
+ nbqkbn 
+========
+

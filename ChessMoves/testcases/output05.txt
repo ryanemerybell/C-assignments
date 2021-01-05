@@ -1,0 +1,23 @@
+========
+ NBQKBNR
+ PPPPPPP
+    R   
+P       
+       p
+    r   
+ppppppp 
+rnbqkbn 
+========
+
+========
+ NBQKBNR
+ PPPPPPP
+    R   
+P   r   
+       p
+        
+ppppppp 
+rnbqkbn 
+========
+
+:)
